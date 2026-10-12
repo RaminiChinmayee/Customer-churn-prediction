@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+catboost
+plotly
+matplotlib
+joblib
+shap
+openpyxl
+reportlab
+psutil
+scipy

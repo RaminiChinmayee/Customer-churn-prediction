@@ -1,0 +1,50 @@
+{
+    "Logistic Regression": {
+        "Accuracy": 0.7991,
+        "Precision": 0.6426,
+        "Recall": 0.5481,
+        "F1": 0.5916,
+        "ROC_AUC": 0.8402,
+        "Training Time (sec)": 0.02
+    },
+    "Decision Tree": {
+        "Accuracy": 0.7303,
+        "Precision": 0.4924,
+        "Recall": 0.5187,
+        "F1": 0.5052,
+        "ROC_AUC": 0.6625,
+        "Training Time (sec)": 0.03
+    },
+    "Random Forest": {
+        "Accuracy": 0.7878,
+        "Precision": 0.6271,
+        "Recall": 0.4947,
+        "F1": 0.5531,
+        "ROC_AUC": 0.8254,
+        "Training Time (sec)": 1.41
+    },
+    "XGBoost": {
+        "Accuracy": 0.7786,
+        "Precision": 0.5957,
+        "Recall": 0.516,
+        "F1": 0.553,
+        "ROC_AUC": 0.8185,
+        "Training Time (sec)": 0.09
+    },
+    "LightGBM": {
+        "Accuracy": 0.8027,
+        "Precision": 0.6569,
+        "Recall": 0.5374,
+        "F1": 0.5912,
+        "ROC_AUC": 0.8334,
+        "Training Time (sec)": 0.07
+    },
+    "CatBoost": {
+        "Accuracy": 0.7956,
+        "Precision": 0.6433,
+        "Recall": 0.516,
+        "F1": 0.5727,
+        "ROC_AUC": 0.8369,
+        "Training Time (sec)": 1.51
+    }
+}
